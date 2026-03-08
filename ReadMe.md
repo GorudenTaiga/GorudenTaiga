@@ -10,6 +10,12 @@
 
 <br/>
 
+<div align="center">
+  <em>🎮 Game & Back-End Developer focusing on Unreal Engine and Laravel-based web systems</em>
+</div>
+
+<br/>
+
 ## 👤 About Me
 
 ```yaml
@@ -107,14 +113,6 @@ fun_fact:
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GorudenTaiga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -126,7 +124,7 @@ fun_fact:
 ## 🎯 Current Goals
 
 - 🔭 Working on: ![Static Badge](https://img.shields.io/badge/Portal_SPMB_(Office_Work)-Website-red) ![Static Badge](https://img.shields.io/badge/SPMB_Bogor_(Office_Work)-Website-orange) ![Static Badge](https://img.shields.io/badge/Perpustakaan_Papua_(Freelance_Project)-Website-blue)
-- 🌱 Currently learning: **Unreal Engine 5, Unity Engine, C#, C++, JavaScript, PHP, GoLang, and Java**
+- 🌱 Currently learning: **Unreal Engine 5, Laravel/PHP, Go, and C#**
 - 👯 Looking to collaborate on: **Game Development, Web Development, or Tools/Bot Related**
 - 💬 Ask me about: **C#, C++, Unreal Engine, Laravel, or anything tech!**
 - ⚡ Fun fact:
