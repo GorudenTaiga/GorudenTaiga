@@ -19,7 +19,7 @@ current_role: "Game & Back-End Developer"
 education: "Computer Science / IT"
 focus:
   - "Game Development with Unreal Engine"
-  - "Full-Stack Web Development"
+  - "Back-End Web Development"
   - "Learning something new every day"
 fun_fact:
   - "I turn coffee into code"
