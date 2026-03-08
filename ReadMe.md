@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GorudenTaiga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GorudenTaiga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Developer%20%7C%20Back-End%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A259FF&center=true&vCenter=true&random=false&width=600&lines=Passionate+Game+Developer+%F0%9F%8E%AE;Full-Stack+Web+Developer+%F0%9F%8C%90;Unreal+Engine+Enthusiast+%E2%9A%99%EF%B8%8F;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A259FF&center=true&vCenter=true&random=false&width=600&lines=Passionate+Game+Developer+%F0%9F%8E%AE;Back-End+Web+Developer+%F0%9F%8C%90;Unreal+Engine+Enthusiast+%E2%9A%99%EF%B8%8F;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,15 +13,18 @@
 ## 👤 About Me
 
 ```yaml
-name: "GorudenTaiga"                          # [PLACEHOLDER: Your real name]
-location: "Indonesia 🇮🇩"                     # [PLACEHOLDER: Your city/country]
-current_role: "Game & Full-Stack Developer"   # [PLACEHOLDER: Your role]
-education: "Computer Science / IT"            # [PLACEHOLDER: Your education]
+name: "GorudenTaiga"
+location: "Indonesia 🇮🇩"
+current_role: "Game & Back-End Developer"
+education: "Computer Science / IT"
 focus:
   - "Game Development with Unreal Engine"
   - "Full-Stack Web Development"
   - "Learning something new every day"
-fun_fact: "I turn coffee into code ☕→💻"     # [PLACEHOLDER: Your fun fact]
+fun_fact:
+  - "I turn coffee into code"
+  - "Osu! Addicted"
+  - "Kafuu Chino SIMP"
 ```
 
 <br/>
@@ -30,10 +33,10 @@ fun_fact: "I turn coffee into code ☕→💻"     # [PLACEHOLDER: Your fun fact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PLACEHOLDER)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/PLACEHOLDER)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PLACEHOLDER)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PLACEHOLDER@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-arfana-rafi-301989272/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/reza_ar2706)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gorudentaiga)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezaarfanarafi2705@gmail.com)
 
 </div>
 
@@ -46,19 +49,22 @@ fun_fact: "I turn coffee into code ☕→💻"     # [PLACEHOLDER: Your fun fact
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unity_Engine](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 </div>
 
-### 🌐 Web Development
+### 🌐 Web/App Development
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -66,6 +72,8 @@ fun_fact: "I turn coffee into code ☕→💻"     # [PLACEHOLDER: Your fun fact
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 </div>
@@ -74,7 +82,7 @@ fun_fact: "I turn coffee into code ☕→💻"     # [PLACEHOLDER: Your fun fact
 <div align="center">
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual_Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -117,11 +125,15 @@ fun_fact: "I turn coffee into code ☕→💻"     # [PLACEHOLDER: Your fun fact
 
 ## 🎯 Current Goals
 
-- 🔭 Working on: **[PLACEHOLDER: Your current project]**
-- 🌱 Currently learning: **[PLACEHOLDER: e.g. Unreal Engine 5 / React / etc.]**
-- 👯 Looking to collaborate on: **Game Development or Web projects**
+- 🔭 Working on: ![Static Badge](https://img.shields.io/badge/Portal_SPMB_(Office_Work)-Website-red) ![Static Badge](https://img.shields.io/badge/SPMB_Bogor_(Office_Work)-Website-orange) ![Static Badge](https://img.shields.io/badge/Perpustakaan_Papua_(Freelance_Project)-Website-blue)
+- 🌱 Currently learning: **Unreal Engine 5, Unity Engine, C#, C++, JavaScript, PHP, GoLang, and Java**
+- 👯 Looking to collaborate on: **Game Development, Web Development, or Tools/Bot Related**
 - 💬 Ask me about: **C#, C++, Unreal Engine, Laravel, or anything tech!**
-- ⚡ Fun fact: **[PLACEHOLDER: Your fun fact]**
+- ⚡ Fun fact:
+  - ⛩️ Mostly watch anime
+  - 💻 Code for Fun
+  - 🎮 Osu! Addicted Player
+  - 🌸 Kafuu Chino SIMP
 
 <br/>
 
