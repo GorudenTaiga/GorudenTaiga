@@ -27,10 +27,6 @@ focus:
   - "Game Development with Unreal Engine"
   - "Back-End Web Development"
   - "Learning something new every day"
-fun_fact:
-  - "I turn coffee into code"
-  - "Osu! Addicted"
-  - "Kafuu Chino SIMP"
 ```
 
 <br/>
@@ -113,15 +109,15 @@ fun_fact:
 
 ## 🎯 Current Goals
 
-- 🔭 Working on: ![Static Badge](https://img.shields.io/badge/Portal_SPMB_(Office_Work)-Website-red) ![Static Badge](https://img.shields.io/badge/SPMB_Bogor_(Office_Work)-Website-orange) ![Static Badge](https://img.shields.io/badge/Perpustakaan_Papua_(Freelance_Project)-Website-blue)
-- 🌱 Currently learning: **Unreal Engine 5, Laravel/PHP, Go, and C#**
-- 👯 Looking to collaborate on: **Game Development, Web Development, or Tools/Bot Related**
-- 💬 Ask me about: **C#, C++, Unreal Engine, Laravel, or anything tech!**
-- ⚡ Fun fact:
-  - ⛩️ Mostly watch anime
-  - 💻 Code for Fun
-  - 🎮 Osu! Addicted Player
-  - 🌸 Kafuu Chino SIMP
+- Working on: ![Static Badge](https://img.shields.io/badge/Portal_SPMB_(Office_Work)-Website-red) ![Static Badge](https://img.shields.io/badge/SPMB_Bogor_(Office_Work)-Website-orange) ![Static Badge](https://img.shields.io/badge/Perpustakaan_Papua_(Freelance_Project)-Website-blue)
+- Currently learning: **Unreal Engine 5, Laravel/PHP, C++,and C#**
+- Looking to collaborate on: **Game Development, Web Development, or Tools/Bot Related**
+- Ask me about: **C#, C++, Unreal Engine, Laravel, or anything tech!**
+- Fun fact:
+  - Mostly watch anime
+  - Code for Fun
+  - Osu! Addicted Player
+  - Kafuu Chino SIMP
 
 <br/>
 
@@ -131,7 +127,7 @@ fun_fact:
 
 <img src="https://komarev.com/ghpvc/?username=GorudenTaiga&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
-*✨ Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.*
+*Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate. :3*
 
 </div>
 
