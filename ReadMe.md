@@ -86,12 +86,16 @@ focus:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GorudenTaiga&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorudenTaiga&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
+      <img width="75%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GorudenTaiga&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Statistics"/>
 </div>
 
 <br/>
+
+<div align="center">
+<img width="75%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GorudenTaiga&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+</div>
+
+<be />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GorudenTaiga&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" alt="GitHub Streak"/>
