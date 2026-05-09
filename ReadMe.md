@@ -92,7 +92,7 @@ focus:
 <br/>
 
 <div align="center">
-<img width="75%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GorudenTaiga&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+<img width="75%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GorudenTaiga&layout=compact&langs_count=10&theme=algolia" alt="Top Languages"/>
 </div>
 
 <be />
