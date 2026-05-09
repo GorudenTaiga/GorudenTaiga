@@ -95,7 +95,7 @@ focus:
 <img width="75%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GorudenTaiga&layout=compact&langs_count=10&theme=algolia" alt="Top Languages"/>
 </div>
 
-<be />
+<br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GorudenTaiga&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" alt="GitHub Streak"/>
