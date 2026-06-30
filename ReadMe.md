@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GorudenTaiga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Developer%20%7C%20Back-End%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
-<div align="center">
-  ![](https://media1.tenor.com/m/4nQODkMmPOcAAAAC/kafuu-chino-anime.gif)
-</div> 
+<p align="center">
+  <img src="https://media1.tenor.com/m/4nQODkMmPOcAAAAC/kafuu-chino-anime.gif" alt="Chino Anime GIF" width="300">
+</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
