@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  ![Kafuu Chino Gif](https://media1.tenor.com/m/4nQODkMmPOcAAAAC/kafuu-chino-anime.gif)
+  ![](https://media1.tenor.com/m/4nQODkMmPOcAAAAC/kafuu-chino-anime.gif)
 </div> 
 
 <div align="center">
