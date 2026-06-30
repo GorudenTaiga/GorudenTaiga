@@ -2,6 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GorudenTaiga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Developer%20%7C%20Back-End%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
+<div class="tenor-gif-embed" data-postid="13802692" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
+  <a href="https://tenor.com/view/kafuu-chino-anime-cute-gif-13802692">
+    Kafuu Chino Anime GIF
+  </a>
+  from <a href="https://tenor.com/search/kafuu+chino-gifs"> Kafuu Chino GIFs</a>
+</div> 
+<script type="text/javascript" async src="https://tenor.com/embed.js">
+</script>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A259FF&center=true&vCenter=true&random=false&width=600&lines=Passionate+Game+Developer+%F0%9F%8E%AE;Back-End+Web+Developer+%F0%9F%8C%90;Unreal+Engine+Enthusiast+%E2%9A%99%EF%B8%8F;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
