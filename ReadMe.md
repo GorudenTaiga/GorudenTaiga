@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/54Se.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/4nQODkMmPOcAAAAC/kafuu-chino-anime.gif" width="100%"/>
 </div> 
 
 <div align="center">
